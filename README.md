@@ -13,6 +13,7 @@ Terminalden "npm i" yazarak modülleri indiriniz
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=mutifix&color=yellow"/>
+    <img src="https://komarev.com/ghpvc/?username=Chavo&color=yellow"/>
 </div>
 # 📷 Bazı Görüntüler
 
