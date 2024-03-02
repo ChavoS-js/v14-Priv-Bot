@@ -1,6 +1,7 @@
 **Bize ulaşabileceğiniz sosyal medya bilgilerimiz:**
 
- [![Discord](https://lanyard.cnrad.dev/api/1179280051443867728)](https://discord.com/users/1179280051443867728)  [![Discord](https://lanyard.cnrad.dev/api/136619876407050240)](https://discord.com/users/136619876407050240)
+ [![Discord](https://lanyard.cnrad.dev/api/1179280051443867728)](https://discord.com/users/1179280051443867728) [![Discord](https://lanyard.cnrad.dev/api/1050471753450786836)](https://discord.com/users/1050471753450786836) 
+ [![Discord](https://lanyard.cnrad.dev/api/136619876407050240)](https://discord.com/users/136619876407050240)
 
 ```js
 "config.js" Dosyasını doldurunuz
