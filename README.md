@@ -1,6 +1,6 @@
 **Bize ulaşabileceğiniz sosyal medya bilgilerimiz:**
 
- [![Discord](https://lanyard.cnrad.dev/api/1179280051443867728)](https://discord.com/users/1179280051443867728)  [![Discord](https://lanyard.cnrad.dev/api/1050471753450786836)](https://discord.com/users/1050471753450786836)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1050471753450786836)](https://discord.com/users/1050471753450786836)
 
 ```js
 "config.js" Dosyasını doldurunuz
@@ -13,7 +13,6 @@ Terminalden "npm i" yazarak modülleri indiriniz
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=mutifix&color=yellow"/>
-    <img src="https://komarev.com/ghpvc/?username=Chavo&color=yellow"/>
 </div>
 # 📷 Bazı Görüntüler
 
